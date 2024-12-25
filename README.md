@@ -1,1 +1,1 @@
-![](Responsive_Landing_Page_view.mp4)
+![](Responsive_Landing_Page_View.mp4)
