@@ -1,1 +1,1 @@
-![](Responsive_Landing_Page_View.mp4)
+![](Responsive_Landing_Page_View.jpg)
